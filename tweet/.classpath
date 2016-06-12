@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/Desktop/Java/자바 라이브러리 모음/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/Desktop/Java/자바 라이브러리 모음/geronimo-stax-api_1.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/Downloads/ooxml-schemas-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/Downloads/poi-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/Downloads/poi-contrib-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/Downloads/poi-ooxml-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/Downloads/poi-scratchpad-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/Downloads/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/Downloads/json simple modified to pretty print.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/Desktop/Java/자바 라이브러리 모음/jackson-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/workspace/SentimentAnalyzer/WebContent/WEB-INF/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/이현규/workspace/SentimentAnalyzer/WebContent/WEB-INF/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+	<referencedentry kind="lib" path="C:/Users/이현규/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+</classpath>
